@@ -1,0 +1,9 @@
+C:\Users\Compro\documents\visual studio 2015\Projects\ChatSender\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Compro\documents\visual studio 2015\Projects\ChatSender\WindowsFormsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Compro\documents\visual studio 2015\Projects\ChatSender\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Compro\documents\visual studio 2015\Projects\ChatSender\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Compro\documents\visual studio 2015\Projects\ChatSender\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Compro\documents\visual studio 2015\Projects\ChatSender\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Compro\documents\visual studio 2015\Projects\ChatSender\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Compro\documents\visual studio 2015\Projects\ChatSender\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Compro\documents\visual studio 2015\Projects\ChatSender\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

@@ -1,0 +1,6 @@
+C:\Users\Compro\documents\visual studio 2015\Projects\ChatSender\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Compro\documents\visual studio 2015\Projects\ChatSender\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Compro\documents\visual studio 2015\Projects\ChatSender\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Compro\documents\visual studio 2015\Projects\ChatSender\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Compro\documents\visual studio 2015\Projects\ChatSender\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Compro\documents\visual studio 2015\Projects\ChatSender\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
